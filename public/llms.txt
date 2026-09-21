@@ -10,24 +10,20 @@
 - Bölge: Çekmeköy ve çevresi
 
 ## Hizmetler
-- Oto Lastik Değişimi: /hizmetler/oto-lastik-degisimi
-- Mobil Lastik: /hizmetler/mobil-lastik
-- Lastik Tamiri: /hizmetler/lastik-tamiri
-- Yol Yardım: /hizmetler/yol-yardim
-- Akü Takviye: /hizmetler/aku-takviye
-- Rot & Balans: /hizmetler/rot-balans
+- [Oto Lastik Değişimi](https://caliskanoto.netlify.app/hizmetler/oto-lastik-degisimi)
+- [Mobil Lastik](https://caliskanoto.netlify.app/hizmetler/mobil-lastik)
+- [Lastik Tamiri](https://caliskanoto.netlify.app/hizmetler/lastik-tamiri)
+- [Yol Yardım](https://caliskanoto.netlify.app/hizmetler/yol-yardim)
+- [Akü Takviye](https://caliskanoto.netlify.app/hizmetler/aku-takviye)
+- [Rot & Balans](https://caliskanoto.netlify.app/hizmetler/rot-balans)
 
 ## Önemli Sayfalar
-- Ana Sayfa: /
-- Hizmetler: /hizmetler
-- Hakkımızda: /hakkimizda
-- Blog: /blog
-- İletişim: /iletisim
+- [Ana Sayfa](https://caliskanoto.netlify.app/)
+- [Hizmetler](https://caliskanoto.netlify.app/hizmetler)
+- [Hakkımızda](https://caliskanoto.netlify.app/hakkimizda)
+- [Blog](https://caliskanoto.netlify.app/blog)
+- [İletişim](https://caliskanoto.netlify.app/iletisim)
 
 ## Kaynaklar
-- Sitemap: /sitemap.xml
-- Robots: /robots.txt
-
-## Canonical
-- Site: https://caliskanoto.netlify.app/
-- Sitemap: https://caliskanoto.netlify.app/sitemap.xml
+- [Sitemap](https://caliskanoto.netlify.app/sitemap.xml)
+- [Robots](https://caliskanoto.netlify.app/robots.txt)
