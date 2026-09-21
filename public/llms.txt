@@ -27,3 +27,7 @@
 ## Kaynaklar
 - Sitemap: /sitemap.xml
 - Robots: /robots.txt
+
+## Canonical
+- Site: https://caliskanoto.netlify.app/
+- Sitemap: https://caliskanoto.netlify.app/sitemap.xml
