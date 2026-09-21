@@ -1,0 +1,29 @@
+# Çalışkan Otomotiv
+
+> Çekmeköy Alemdağ merkezli oto lastik, mobil lastik ve yol yardım servisi.
+
+## İşletme
+- Ad: ÇALIŞKAN OTOMOTİV
+- Telefon: 0535 324 03 14
+- Adres: Alemdağ, Atabey Cd. No:27, 34794 Çekmeköy/İstanbul
+- Çalışma saatleri: Her gün 08:00–21:00
+- Bölge: Çekmeköy ve çevresi
+
+## Hizmetler
+- Oto Lastik Değişimi: /hizmetler/oto-lastik-degisimi
+- Mobil Lastik: /hizmetler/mobil-lastik
+- Lastik Tamiri: /hizmetler/lastik-tamiri
+- Yol Yardım: /hizmetler/yol-yardim
+- Akü Takviye: /hizmetler/aku-takviye
+- Rot & Balans: /hizmetler/rot-balans
+
+## Önemli Sayfalar
+- Ana Sayfa: /
+- Hizmetler: /hizmetler
+- Hakkımızda: /hakkimizda
+- Blog: /blog
+- İletişim: /iletisim
+
+## Kaynaklar
+- Sitemap: /sitemap.xml
+- Robots: /robots.txt
